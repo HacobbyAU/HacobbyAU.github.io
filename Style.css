@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+}
+#titulazo{
+    background-color: black;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 0%;
+    padding-left: 3%;
+}
+nav{
+    position: absolute;
+    left: 65%;
+    bottom: 83%;
+    color: white;
+}
+.enlaceNav{
+    color: white;
+    font-weight: 500;
+    font-style: unset;
+    text-decoration: none;
+}
+#foot{
+    margin: 0%;
+    position: absolute;
+    bottom: -10%;
+    font-style: italic;
+    font-size: 12px;
+}
+#campo1{
+    border-style: none;
+    padding-left: 2%;
+}
+#image1{
+    width: 500px;
+    position: absolute;
+    left: 57%;
+    bottom: 35%;
+}
+#parrafo1{
+    width: 50%;
+}
+#campo2{
+    border-style: none;
+    padding-left: 2%;
+}
